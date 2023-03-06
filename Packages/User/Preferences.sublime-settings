@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Dark Neon Color Scheme/DarkNeon.tmTheme",
+	"theme": "Adaptive.sublime-theme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"font_size": 21,
+	"font_face":"",
+	"save_on_focus_lost": true,
+	/*"save_on_focus_lost": true,*/
+}
